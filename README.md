@@ -1,4 +1,4 @@
-# VBlog
+# VBlog(本项目所有源码归原辣子鸡作者所有)
 ![](https://img.shields.io/badge/vue-2.5.2-brightgreen.svg) ![](https://img.shields.io/badge/element--ui-2.3.5-brightgreen.svg) ![](https://img.shields.io/badge/vant-1.1.2-brightgreen.svg)
 ## 目录
 - [简介](#简介)
